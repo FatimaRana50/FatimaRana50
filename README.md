@@ -265,6 +265,10 @@ AI Research & Efficient Intelligent Systems
 <img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
+<a href="www.linkedin.com/in/fatima-farrukh-rana-ba23bb30b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
 <br>
